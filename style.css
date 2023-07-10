@@ -89,4 +89,60 @@ nav li:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+   
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 30px;
+    margin-top: 60px;
+    
+    
+}
+.box{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.feat-img{
+    width: 314px;
+    height: 471px;
+    margin-top: 67px;
+    margin-left: 75px;
+    
+    
+}
+.feat-tittle{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 170px;
+}
+.feat-para{
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0; 
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.picture-title{
+    display: flex;
+    gap: 330px;
+    align-items: center;
+    color: #272727;
+   font-family: Lato;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 35px;
+   margin-bottom: 50px;
 }
