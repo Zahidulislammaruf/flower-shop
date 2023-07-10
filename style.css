@@ -219,3 +219,37 @@ nav li:hover{
 .deal-picture{
      margin: 100px 0;
 }
+.social{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap : 48px
+}
+.social-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 50px;
+}
+.social-tittle{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 130px;
+}
+.social-para{
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+}
