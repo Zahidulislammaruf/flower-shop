@@ -253,3 +253,43 @@ nav li:hover{
     line-height: 30px;
     margin-top: 20px;
 }
+.coupon{
+    display: flex;
+    justify-content: center ;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background: url('asset/Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    margin: 128px 230px;
+}
+.deal-tittle{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 128px;
+}
+.deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.deal-info{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 1px solid #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: start;
+    padding-left: 20px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
