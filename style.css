@@ -309,3 +309,45 @@ nav li:hover{
     margin-top: 30px;
     
 }
+.footer-sec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #111010;
+}
+.footer-title{
+    color: #E55473;
+   font-family: Lato;
+    font-size: 48px;
+   font-weight: 800;
+   margin-top: 128px;
+}
+.footer-para{
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+   margin-top: 24px;
+
+}
+.footer-para1{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+.shop{
+    color: #FFF;
+}
+.shop1{
+    color: red;
+}
