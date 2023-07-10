@@ -270,7 +270,7 @@ nav li:hover{
     font-family: Lato;
     font-size: 40px;
     font-weight: 800;
-    margin-top: 128px;
+    margin-top: 80px;
 }
 .deal-para{
     color: rgba(39, 39, 39, 0.60);
@@ -279,6 +279,7 @@ nav li:hover{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    margin-top: 25px;
 }
 .deal-info{
     width: 700px;
@@ -292,4 +293,19 @@ nav li:hover{
     font-family: Lato;
     font-size: 16px;
     font-weight: 400;
+}
+.deal-btn{
+    width: 155px;
+    height: 64px;
+    border: 1px solid #E55473;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 30px;
+    
 }
