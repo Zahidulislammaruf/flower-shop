@@ -146,3 +146,31 @@ nav li:hover{
    line-height: 35px;
    margin-bottom: 50px;
 }
+.feat-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 320px;
+    margin: 128px 240px;
+
+}
+.boxdesing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.box-picture{
+    width: 88px;
+    height: 88px;
+}
+.box-title{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 600;
+   line-height: 35px;
+}
