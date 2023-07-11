@@ -84,6 +84,9 @@ nav li:hover{
     margin-left: 240px;
     margin-top: 15px;  
 }
+.headerimg{
+    margin-top: 40px;
+}
 .featured-container{
     display: flex;
     flex-direction: column;
