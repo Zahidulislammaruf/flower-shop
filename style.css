@@ -34,8 +34,8 @@ nav li{
     cursor: pointer;
 }
 nav li:hover{
-    color: black;
-    background-color: aqua;
+    color: white;
+    background-color: black;
 }
 #se1{
     border-radius: 15px;
@@ -362,7 +362,7 @@ nav li:hover{
 }
 .review-box-container{
     display: flex;
-    gap: 80px;
+    gap: 90px;
 }
 .review-box{
    
