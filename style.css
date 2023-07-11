@@ -351,3 +351,54 @@ nav li:hover{
 .shop1{
     color: red;
 }
+
+.reviwe-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);  
+    margin-bottom: 128px;
+}
+.review-box-container{
+    display: flex;
+    gap: 80px;
+}
+.review-box{
+   
+    margin-top: 80px;
+    height: 250px;
+    width: 180px;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 0px 2px 15px 0px rgb(204, 84, 84); 
+    margin-bottom: 128px;
+}
+.review-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 60px;
+}
+.review-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+}
+.review-para{
+    padding: 10px;
+}
+.customer{
+    align-items: center;
+}
+.customer-review{
+    margin-top: 40px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+    
